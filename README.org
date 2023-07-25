@@ -1,0 +1,10 @@
+* buildnode
+
+A common lisp library to ease interaction with CXML-dom
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/buildnode.git   |
+| commit  | c614ead  |
+| systems | buildnode |
+|---------+-------------------------------------------|
+
